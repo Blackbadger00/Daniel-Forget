@@ -1,0 +1,8 @@
+{
+  "name": "CineArchive - Android Movie Discovery & Streaming",
+  "description": "Premium Android movie discovery and streaming app powered by Internet Archive public domain cinema with native Jetpack Compose architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
